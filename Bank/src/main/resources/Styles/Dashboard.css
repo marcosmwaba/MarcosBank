@@ -1,0 +1,19 @@
+/*just here i start*/
+
+.dashboard {
+ -fx-background-color: EEEEEE;
+}
+
+.user_name {
+ -fx-font-size: 2.6em;
+ -fx-font-family: "Calibr1i Light"
+}
+
+.date_lbl {
+ -fx-text-fill: AAAAAA;
+ -fx-font-size: 1.1em;
+ -fx-font-family: "Calibr1i Light";
+}
+/* from here  i stopped using css styles cause i was coding on intillij ide community edition, i was hard to test css files cause this edition
+does not allow that unless the paid one, ultimate and at the moment i don't have enough cash, but i will use the scene builder to directly add my styles into
+my fxml "!!all the best!!"
